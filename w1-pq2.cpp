@@ -1,3 +1,5 @@
+//Euclidean distance between two points
+
 #include <iostream>
 #include <cmath> //LINE-1
 
